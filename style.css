@@ -1,0 +1,29 @@
+.body{
+
+    display: flex;
+  justify-content: center;
+  background-color: white;
+  color: black;
+  
+}
+
+.body2
+{
+
+background-color: black;
+color: white;
+display: flex;
+  justify-content: center;
+
+}
+a
+{
+  text-decoration: none;
+  color: black;
+}
+button
+{
+margin-left: 100px;
+border-radius: 20px;
+background-color: brown;
+}
